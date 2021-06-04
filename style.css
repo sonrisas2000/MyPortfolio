@@ -286,6 +286,7 @@ body {
 .footer p{
     text-align: center;
     color: #333333;
+    margin-bottom: 2rem;
 }
 .footer ul{
     display: flex;

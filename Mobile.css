@@ -64,7 +64,7 @@ nav{
 nav .hamburger {
     position: absolute;
     top: 20px;
-    left: -40px;
+    left: -45px;
     z-index: 1;
     width: 60px;
     height: 60px;
@@ -176,12 +176,12 @@ nav .menu {
     display: flex;   
 }
 .main-section .main-box__left{
-    height: auto;
+    height: 70%;
     width: 90%;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin: 20px;
+    margin-left: 20px;
     color: #3c3c3c;
 }
 .main-section .main-box__left h2{
