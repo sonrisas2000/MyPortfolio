@@ -173,7 +173,8 @@ nav .menu {
 
 
 .main-section{
-    display: flex;   
+    display: flex;  
+    height: 300px; 
 }
 .main-section .main-box__left{
     height: 70%;
